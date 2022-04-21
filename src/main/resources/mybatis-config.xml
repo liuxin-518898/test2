@@ -4,7 +4,7 @@
         "http://mybatis.org/dtd/mybatis-3-config.dtd">
 <configuration>
     <settings>
-        <!--解决插入的时候有空值的情况-->
+        <!--解决插入的时候有空值的情况  EditPlus是一款专业的文本编辑工具，因其-->
         <setting name="jdbcTypeForNull" value="NULL"/>
         <!--mybatis打印sql语句-->
         <setting name="logImpl" value="SLF4J"/>
